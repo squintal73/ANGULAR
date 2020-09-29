@@ -1,0 +1,15 @@
+{
+  "name": "produto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sidnei quintal",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "angular": "^1.8.0",
+    "lodash": "^4.17.20"
+  }
+}
